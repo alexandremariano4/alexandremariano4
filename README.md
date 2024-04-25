@@ -1,4 +1,4 @@
-![](/assets/jinx-arcane.gif)
+![](/assets/zed.gif)
 <!--
 **alexandremariano4/alexandremariano4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
