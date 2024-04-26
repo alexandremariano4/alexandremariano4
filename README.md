@@ -1,5 +1,9 @@
 ![](/assets/zed.gif)
-### Olá, bem vindo ao meu repositório 😁
+### Olá, bem vindo ao meu perfil 😁
+
+Abaixo terão conteúdos destinados principalmente aos estudos que realizo em diversas linguagens como JavaScript, PHP, Python.
+E frameworks de teste como Cypress, Selenium.
+Além de outros projetos individuais que espero que seja possível contribuir com alguém.
 <!--
 **alexandremariano4/alexandremariano4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
