@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">Algumas das principais tecnologias que trabalho</h2>
+<h3 align="left">🛠️Linguagens e Frameworks</h3>
 
 ###
 
@@ -40,6 +40,10 @@
 
 ###
 
+<h3 align="left">🚀DevOps e Database</h3>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
@@ -55,6 +59,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
+
+###
+
+<h3 align="left">💻Front End e UI</h3>
 
 ###
 
