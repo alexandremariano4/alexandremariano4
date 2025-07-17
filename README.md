@@ -78,5 +78,3 @@
 </div>
 
 ###
-
-![](/assets/zed.gif)
