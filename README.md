@@ -82,7 +82,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandremariano4&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexandremariano4&radius=13&theme=react&area=true&order=5&hide_border=true&custom_title=Alexandre's%20Contribution&hide_title=false" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
