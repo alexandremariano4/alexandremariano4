@@ -16,7 +16,17 @@
 
 ###
 
-<p align="left">🚀 Tenho experiência sólida em automação de testes, com foco principal em Python com Selenium, além de conhecimentos práticos em Cypress, Robot Framework, Appium e ferramentas de performance como K6 e JMeter. Também aplico conceitos de UX/UI, com base em cursos ministrados por profissionais do Google, contribuindo para soluções mais intuitivas e centradas no usuário.<br><br>🤖 Utilizo inteligência artificial (LLMs como ChatGPT e Gemini) para gerar scripts automatizados, otimizar casos de teste, analisar logs e acelerar a depuração. Essa abordagem tem elevado a eficiência dos processos de qualidade e apoiado entregas mais rápidas e confiáveis.<br><br>🧠 Dentre os projetos que destaco, desenvolvi uma solução própria com paralelismo e análise de logs usando IA em pipelines GitLab CI, o que auxiliou na tomada de decisão em falhas e aumentou a velocidade de execução dos testes em até 50%, dependendo da quantidade de executores ativos.<br><br>📝Atuei em projetos com metodologias diversas como Scrum, Kanban, Shift-Left e BDD, participando ativamente desde a concepção até a entrega e também utilizando técnicas de pirâmide de testes e o disseminando o método INVEST para melhoria dos processos. Já realizei entrevistas de usabilidade com UX para auxiliar no processo de design de diferentes plataformas.<br><br>🎖️Como profissional de qualidade, meu maior objetivo é garantir entregas eficientes, robustas e escaláveis, colaborando com qualquer equipe para atingir o melhor padrão de qualidade possível.</p>
+<p align="left">🚀 Tenho experiência sólida com diversos frameworks como Selenium, Cypress, Robot Framework, Appium, Playwright, TestCafe, K6 e JMeter. 
+
+🤔Para testes funcionais e não funcionais (usabilidade) aplico conceitos de UX/UI, com base nos meus conhecimentos práticos e estudos, contribuindo para soluções mais intuitivas e centradas no usuário, além de ter apoiar UX em entrevistas de usabilidade para auxiliar no processo de design de diferentes plataformas.
+
+🤖 Utilizo inteligência artificial (ChatGPT, Gemini, entre outros) para auxiliar na escrita de scripts de automação, otimizar casos de teste e análise de log. Essa abordagem eleva a eficiência dos processos de qualidade e promove entregas mais rápidas e confiáveis.
+
+🧠 Atuo com foco em produtividade e elevação de indicadores de qualidade e métricas do time, proporcionando a equipe melhor poder de decisão apresentando gráficos e dados que auxiliem a gestão a iniciativas que podem promover bons resultados.
+
+📝Em metodologias ágeis tive experiência com Kanban, Shift-Left e BDD, tendo participação ativa desde a concepção até a entrega e também utilizando técnicas de pirâmide de testes como estratégia de automação. 
+
+🎖️Como profissional de qualidade, meu maior objetivo é garantir entregas eficientes, robustas e escaláveis, colaborando com equipes multidiscpilinares, buscando a melhor qualidade possível.</p>
 
 ###
 
@@ -94,12 +104,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
 </picture>
-
-###
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandremariano4&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
