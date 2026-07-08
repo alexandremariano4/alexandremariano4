@@ -20,13 +20,13 @@
 
 🤔Para testes funcionais e não funcionais (usabilidade) aplico conceitos de UX/UI, com base nos meus conhecimentos práticos e estudos, contribuindo para soluções mais intuitivas e centradas no usuário, além de ter apoiar UX em entrevistas de usabilidade para auxiliar no processo de design de diferentes plataformas.
 
-🤖 Utilizo inteligência artificial (ChatGPT, Gemini, entre outros) para auxiliar na escrita de scripts de automação, otimizar casos de teste e análise de log. Essa abordagem eleva a eficiência dos processos de qualidade e promove entregas mais rápidas e confiáveis.
+🤖 Utilizo IA no dia a dia com ferramentas como ChatGPT, Gemini, Claude Code CLI e MCP para acelerar automações, otimizar casos de teste, analisar logs e integrar processos de QA com IA, aumentando produtividade, eficiência e confiabilidade das entregas.
 
 🧠 Atuo com foco em produtividade e elevação de indicadores de qualidade e métricas do time, proporcionando a equipe melhor poder de decisão apresentando gráficos e dados que auxiliem a gestão a iniciativas que podem promover bons resultados.
 
 📝Em metodologias ágeis tive experiência com Kanban, Shift-Left e BDD, tendo participação ativa desde a concepção até a entrega e também utilizando técnicas de pirâmide de testes como estratégia de automação. 
 
-🎖️Como profissional de qualidade, meu maior objetivo é garantir entregas eficientes, robustas e escaláveis, colaborando com equipes multidiscpilinares, buscando a melhor qualidade possível.</p>
+🎖️Como profissional de qualidade, meu maior objetivo é garantir entregas eficientes, robustas e escaláveis, colaborando com equipes multidiscpilinares, buscando a melhor qualidade possível..</p>
 
 ###
 
